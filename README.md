@@ -1,6 +1,6 @@
 # Hivemind's Infrastructure Challenge
 
-The challenge consists in deploying a web service in a highly available environment using ECS.
+The challenge consists in deploying a web service in a highly available environment using ECS or EKS.
 
 - Deploy to AWS using Terraform or CDK.
 
