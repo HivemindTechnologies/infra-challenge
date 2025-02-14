@@ -16,6 +16,7 @@ For all services, the client would like that logs are sent to their `OpenSearch`
 
 ## Expectations:
 
+* **Infrastructure-as-code**: Clean and extensible infrastructure code to easily spin up environments with the above mentioned features.
 * **Documentation**: Provide clear documentation for reproducibly setting up, using, and deploying the services.
 * **Production-Readiness**: Ensure that your solution adheres to best practices concerning security, performance, and reliability.
 * **Submission**: Submit your solution via email as a zip file.
