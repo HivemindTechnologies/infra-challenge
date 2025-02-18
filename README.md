@@ -2,7 +2,7 @@
 
 Welcome to Hivemind's Infrastructure Challenge! This project is a coding challenge that aims to test your skills in deploying a web service using Kubernetes.
 
-## Overview
+## Task
 
 You are joining an existing client project aimed at migrating a Kubernetes setup. They currently have an ancient Kubernetes cluster running with a single HTTP service called the `greeting-provider` (located in `services/greeting-provider/`). This service is a JavaScript application, and the existing code, Dockerfile, and Kubernetes manifest for deployment are provided. The client wishes to transition to a new infrastructure managed as code.
 
@@ -14,7 +14,7 @@ Furthermore, a new HTTP service named `greeter` needs to be added, as specified 
 
 For all services, the client would like that logs are sent to their `OpenSearch` instance. You should have received the `URL` as well as the credentials to access it.
 
-## Expectations:
+## Expectations
 
 * **Infrastructure-as-code**: Clean and extensible infrastructure code to easily spin up environments with the above mentioned features.
 * **Documentation**: Provide clear documentation for reproducibly setting up, using, and deploying the services.
