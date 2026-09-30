@@ -12,6 +12,7 @@ Welcome to Hivemind's Infrastructure Challenge! This project is a coding challen
 
 * Build a pipeline for continuous integration and deployment.
 * Create documentation that explains how to set up and use the service.
+* You may solve this challenge with the help of LLMs, but write the README.md of your solution yourself without one.
 * Ensure that your solution is production-ready by implementing best practices for security, performance, and reliability.
 * Submit your solution by sending us a zip file via email.
 
